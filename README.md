@@ -3,7 +3,7 @@
 <h2 align="center">🙈  Members  🙉</h2>
 <br/>
 <h4 align="center"> 김성원 &nbsp aruel7714</h4>
-<h4 align="center"> 양준모 &nbsp junmoyang0422</h4>
+<h4 align="center"> 양준모 &nbsp Juunnmmoo</h4>
 <h4 align="center"> 장태현 &nbsp xogus3492</h4>
 <h4 align="center"> 이세진 &nbsp MARIESJLee</h4>
 <h4 align="center"> 김태윤 &nbsp 20214216-kimtaeyoon</h4>
