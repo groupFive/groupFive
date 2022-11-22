@@ -1,6 +1,6 @@
 <h1 align="center"> 안녕하세요🖐  5-Jo입니다! </h1>
 <br/>
-<h2 align="center">🙈  Members  🙉</h2>
+<h3 align="center">🙈  Members  🙉</h3>
 <br/>
 <h4 align="center"> 김성원 &nbsp aruel7714</h4>
 <h4 align="center"> 양준모 &nbsp Juunnmmoo</h4>
