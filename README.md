@@ -1,3 +1,5 @@
+<h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=C4DEFF&height=300&section=header&text=Welcome!&fontSize=90" /> </h1>
+
 <h1 align="center"> 안녕하세요🖐  5-Jo입니다! </h1>
 <br/>
 <h3 align="center">🙈  Members  🙉</h3>
